@@ -1,0 +1,3 @@
+70/75
+
+This project produces one sentence summaries from Rotten Tomatoes movie review data. A number of methods were considered, including TextRank, PageRank, and other measures of the centrality of a sentence in a document. The final results suggest that the first-sentence baseline is tough to beat. Additional error analysis would be welcome to better understand the strengths/weaknesses of the approaches.
